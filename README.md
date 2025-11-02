@@ -33,5 +33,5 @@ Overall, **trains are much safer than cars** — both in terms of accident rates
 ➡️ **Trains are significantly safer than cars** for long-distance or daily travel, especially when considering per-passenger risk.
 
 
-Male logic Trains
-Female logic Cars
+### Male logic: Trains
+### Female logic: Cars
